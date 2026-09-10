@@ -75,13 +75,13 @@ kvnloo/grok-ship/
 ### Phase 0 — Plan + sync (now)
 - [x] Confirm fork `kvnloo/grok-ship`
 - [x] Sync fork with upstream
-- [ ] Land this plan on branch `zer0/integration-plan`
+- [x] Land this plan on branch `zer0/integration-plan`
 - [ ] Kevin approve Option A vs B
 
 ### Phase 1 — Pack overlay (no behavior change)
-- Add `zer0/*.md` charters mirroring **current** live descriptions (export, don’t invent)
-- Add `roster.yaml` with agent UUIDs
-- CI: schema check that every roster entry has a charter file
+- [x] Add `zer0/*.md` charters mirroring **current** live descriptions (export, don’t invent) — 2026-09-10 shell export
+- [x] Add `roster.yaml` with agent UUIDs
+- [ ] CI: schema check that every roster entry has a charter file
 - Still: live agents are source of truth until Phase 2
 
 ### Phase 2 — Apply path (one role at a time)
