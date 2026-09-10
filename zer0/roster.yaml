@@ -1,0 +1,116 @@
+exported_at: "2026-09-10"
+source: "box:/home/box/agent-data/agents"
+phase: 1
+agents:
+  - id: 0ce43536-3ddc-4c58-bed8-0acb382154ca
+    name: "CoS"
+    charter: zer0/GROK_BOT_COS.md
+    role_map: GROK_BOT_COS.md
+  - id: 11e5aab1-765f-44c6-bc50-2ebdd8b840ff
+    name: "boplog maintainer"
+    charter: zer0/GROK_BOT_BOPLOG-MAINTAINER.md
+  - id: 20d52c6a-aa28-4ffc-af57-8aa1a326ba08
+    name: "pair verify"
+    charter: zer0/GROK_BOT_PAIR-VERIFY.md
+  - id: 26a0a135-e9cf-4a3d-a7df-3aca2a013036
+    name: "xgo verify"
+    charter: zer0/GROK_BOT_XGO-VERIFY.md
+  - id: 31b567cc-cc02-4430-99d2-498f3e716d9d
+    name: "hermes verify"
+    charter: zer0/GROK_BOT_HERMES-VERIFY.md
+  - id: 38e85463-3b54-417c-8d99-5698d9638950
+    name: "oss factory"
+    charter: zer0/GROK_BOT_FACTORY.md
+    role_map: GROK_BOT_FACTORY.md
+  - id: 3a0138f1-8803-442e-a0cd-01f8a5fda304
+    name: "huh verify"
+    charter: zer0/GROK_BOT_HUH-VERIFY.md
+  - id: 403f8508-7d05-44ac-a4ac-169bbecf24d2
+    name: "cairn verify"
+    charter: zer0/GROK_BOT_CAIRN-VERIFY.md
+  - id: 510b0d6b-8e96-463f-987b-5b5d6379b21d
+    name: "powercalc verify"
+    charter: zer0/GROK_BOT_POWERCALC-VERIFY.md
+  - id: 62d7b01a-e3f4-4a1f-a169-988c002d6226
+    name: "react-bits verify"
+    charter: zer0/GROK_BOT_REACT-BITS-VERIFY.md
+  - id: 72e64a32-65d6-4da8-950a-08669326d384
+    name: "crush verify"
+    charter: zer0/GROK_BOT_CRUSH-VERIFY.md
+  - id: 7443a4ff-04a0-4353-9f4d-9715d8e19546
+    name: "frontier"
+    charter: zer0/GROK_BOT_FRONTIER.md
+    role_map: GROK_BOT_FRONTIER.md
+  - id: 750bded6-c1a9-4e6e-a0ad-f8f872644756
+    name: "noctalia verify"
+    charter: zer0/GROK_BOT_NOCTALIA-VERIFY.md
+  - id: 76b5b8c8-a341-4bf9-b38e-4eb28874c4df
+    name: "mesh velocity"
+    charter: zer0/GROK_BOT_MESH-VELOCITY.md
+  - id: 77d26f6d-2186-4efa-91d6-0b6d4f5d8316
+    name: "omp verify"
+    charter: zer0/GROK_BOT_OMP-VERIFY.md
+  - id: 7df78881-0093-4d97-be1f-ad1043750a53
+    name: "omnara verify"
+    charter: zer0/GROK_BOT_OMNARA-VERIFY.md
+  - id: 801eb820-1ea5-4d96-b7eb-f56205916dcf
+    name: "keel mesh"
+    charter: zer0/GROK_BOT_KEEL-MESH.md
+  - id: 8c08281d-d911-4085-be09-ccd074f504e8
+    name: "agent-orchestrator verify"
+    charter: zer0/GROK_BOT_AGENT-ORCHESTRATOR-VERIFY.md
+  - id: 90c6b56f-8ab4-4044-8d69-f25f3772c2a7
+    name: "$$"
+    charter: zer0/GROK_BOT_DOLLAR-DOLLAR.md
+  - id: 968af12f-a597-4995-a5da-ae1aeb59706c
+    name: "dr eggbot"
+    charter: zer0/GROK_BOT_DR-EGGBOT.md
+  - id: a1514baf-736a-4143-89ad-fae39991dad6
+    name: "gameblocks verify"
+    charter: zer0/GROK_BOT_GAMEBLOCKS-VERIFY.md
+  - id: a18ea4d4-965e-4fd9-9e73-426b33bfff41
+    name: "o8 verify"
+    charter: zer0/GROK_BOT_O8-VERIFY.md
+  - id: afcf620a-9690-47b5-8d2d-b7c571e027d7
+    name: "chiro verify"
+    charter: zer0/GROK_BOT_CHIRO-VERIFY.md
+  - id: b3a56ead-c10f-4548-99ea-e5e7afcbbf3e
+    name: "factory coach"
+    charter: zer0/GROK_BOT_FACTORY-COACH.md
+  - id: b6b3bbdb-4e5e-4cec-947f-413fb7834fcd
+    name: "cachyos-hypr verify"
+    charter: zer0/GROK_BOT_CACHYOS-HYPR-VERIFY.md
+  - id: bc07661f-dff4-42e5-b2c3-1ebddaa7984f
+    name: "community manager"
+    charter: zer0/GROK_BOT_TRIAGE_CM.md
+    role_map: GROK_BOT_TRIAGE_CM.md
+  - id: d48c9d59-868d-406e-8921-3790131dfa2a
+    name: "noop verify"
+    charter: zer0/GROK_BOT_NOOP-VERIFY.md
+  - id: d5393214-eaa7-42d7-b213-467ff0a2d6c3
+    name: "sys loop"
+    charter: zer0/GROK_BOT_SYS-LOOP.md
+  - id: e66da65b-cab1-4823-8ece-a60925ec9ddc
+    name: "openclaw verify"
+    charter: zer0/GROK_BOT_OPENCLAW-VERIFY.md
+  - id: e70a7f9d-cbc1-4922-af3c-8ddde2fb53a5
+    name: "dash loop"
+    charter: zer0/GROK_BOT_DASH-LOOP.md
+  - id: e8cd6a94-6e08-4610-acc6-e221cc7177e9
+    name: "Linear maintainer"
+    charter: zer0/GROK_BOT_LINEAR.md
+    role_map: GROK_BOT_LINEAR.md
+  - id: eff2966b-b418-4891-ad0b-aaa7103e6058
+    name: "git watchdog"
+    charter: zer0/GROK_BOT_WATCHDOG.md
+    role_map: GROK_BOT_WATCHDOG.md
+  - id: f1567c35-68d0-4879-904f-c4be124a4bc4
+    name: "gitnexus verify"
+    charter: zer0/GROK_BOT_GITNEXUS-VERIFY.md
+  - id: f8bc6b53-f290-4725-887e-61b402b99d83
+    name: "omarchy verify"
+    charter: zer0/GROK_BOT_OMARCHY-VERIFY.md
+  - id: fd77e03a-f2fa-4154-8737-17aab51e670d
+    name: "connect-all"
+    charter: zer0/GROK_BOT_CONNECT.md
+    role_map: GROK_BOT_CONNECT.md
