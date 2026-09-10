@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "notes": "Repo-specific contribution rules for the repo-verify skill. Add a repo here instead of creating a new bot.",
+  "policies": {
+    "example/upstream": {
+      "automated_code": true,
+      "pr_required_headings": ["Summary", "Test plan"],
+      "verify_commands": ["npm test"],
+      "docs_rule": "Update README when behavior changes.",
+      "notes": "Replace this stub with real upstream repos as you onboard them."
+    }
+  }
+}
